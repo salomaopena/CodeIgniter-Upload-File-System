@@ -1,0 +1,9 @@
+__ci_last_regenerate|i:1737310441;_ci_previous_url|s:41:"http://localhost/upload/public/index.php/";error|s:252:"<!-- DEBUG-VIEW START 1 SYSTEMPATH/Validation/Views/list.php -->
+	<div class="errors" role="alert">
+		<ul>
+					<li>Tamanho do ficheiro excede o limite permitido!</li>
+				</ul>
+	</div>
+
+<!-- DEBUG-VIEW ENDED 1 SYSTEMPATH/Validation/Views/list.php -->
+";__ci_vars|a:1:{s:5:"error";s:3:"old";}
